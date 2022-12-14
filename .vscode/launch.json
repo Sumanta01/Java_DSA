@@ -1,0 +1,266 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Find_position_Of_element_in_sorted_array",
+            "request": "launch",
+            "mainClass": "Find_position_Of_element_in_sorted_array",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_Search_Floor",
+            "request": "launch",
+            "mainClass": "Binary_Search_Floor",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_Search_2",
+            "request": "launch",
+            "mainClass": "Binary_Search_2",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Richest_Cutmoer_Wealth",
+            "request": "launch",
+            "mainClass": "Richest_Cutmoer_Wealth",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Even_number_digit",
+            "request": "launch",
+            "mainClass": "Even_number_digit",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Min_Element",
+            "request": "launch",
+            "mainClass": "Min_Element",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch LInear_search_string",
+            "request": "launch",
+            "mainClass": "LInear_search_string",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linear_Search",
+            "request": "launch",
+            "mainClass": "Linear_Search",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch max_element_rangeArray",
+            "request": "launch",
+            "mainClass": "max_element_rangeArray",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap_Index",
+            "request": "launch",
+            "mainClass": "Swap_Index",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiDimension_ArrayList",
+            "request": "launch",
+            "mainClass": "MultiDimension_ArrayList",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array_List",
+            "request": "launch",
+            "mainClass": "Array_List",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Two_D_Array",
+            "request": "launch",
+            "mainClass": "Two_D_Array",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrong_Number",
+            "request": "launch",
+            "mainClass": "Armstrong_Number",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Varargs",
+            "request": "launch",
+            "mainClass": "Varargs",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shadowing",
+            "request": "launch",
+            "mainClass": "Shadowing",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch function_2",
+            "request": "launch",
+            "mainClass": "function_2",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap",
+            "request": "launch",
+            "mainClass": "Swap",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Greeting",
+            "request": "launch",
+            "mainClass": "Greeting",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Functions",
+            "request": "launch",
+            "mainClass": "Functions",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sieve_of_Erathunates",
+            "request": "launch",
+            "mainClass": "Sieve_of_Erathunates",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_of_digit_until_single_digit",
+            "request": "launch",
+            "mainClass": "sum_of_digit_until_single_digit",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_Search",
+            "request": "launch",
+            "mainClass": "Binary_Search",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switch_Case",
+            "request": "launch",
+            "mainClass": "Switch_Case",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse_num",
+            "request": "launch",
+            "mainClass": "reverse_num",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequency_letter_num",
+            "request": "launch",
+            "mainClass": "frequency_letter_num",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequency_letter",
+            "request": "launch",
+            "mainClass": "frequency_letter",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibbonacci",
+            "request": "launch",
+            "mainClass": "fibbonacci",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Upper_Lower",
+            "request": "launch",
+            "mainClass": "Upper_Lower",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch char_string",
+            "request": "launch",
+            "mainClass": "char_string",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch grater_value",
+            "request": "launch",
+            "mainClass": "grater_value",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch For",
+            "request": "launch",
+            "mainClass": "For",
+            "projectName": "Java_DSA_4ed66193"
+        }
+    ]
+}
