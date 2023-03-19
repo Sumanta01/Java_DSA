@@ -6,6 +6,293 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Enums",
+            "request": "launch",
+            "mainClass": "Enums",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray_List",
+            "request": "launch",
+            "mainClass": "ReverseArray_List",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "Example",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Node",
+            "request": "launch",
+            "mainClass": "Node",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "abstract_Inhit",
+            "request": "launch",
+            "mainClass": "abstract_Inhit",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattren",
+            "request": "launch",
+            "mainClass": "Star_Pattren",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Do_While",
+            "request": "launch",
+            "mainClass": "Do_While",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Singleton_Calss",
+            "request": "launch",
+            "mainClass": "Singleton_Calss",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibbonacci_Dp",
+            "request": "launch",
+            "mainClass": "fibbonacci_Dp",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Four_Oop_in_One_Code",
+            "request": "launch",
+            "mainClass": "Four_Oop_in_One_Code",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Struggle",
+            "request": "launch",
+            "mainClass": "Struggle",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Faang",
+            "request": "launch",
+            "mainClass": "Faang",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array_Exception",
+            "request": "launch",
+            "mainClass": "Array_Exception",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gcd_Recursion",
+            "request": "launch",
+            "mainClass": "Gcd_Recursion",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inerclass",
+            "request": "launch",
+            "mainClass": "Inerclass",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Static_Block",
+            "request": "launch",
+            "mainClass": "Static_Block",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch OOP_1",
+            "request": "launch",
+            "mainClass": "OOP_1",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse_word_String",
+            "request": "launch",
+            "mainClass": "Reverse_word_String",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse_Sentence",
+            "request": "launch",
+            "mainClass": "Reverse_Sentence",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse_String",
+            "request": "launch",
+            "mainClass": "Reverse_String",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlipImage",
+            "request": "launch",
+            "mainClass": "FlipImage",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Int_to_Binary",
+            "request": "launch",
+            "mainClass": "Int_to_Binary",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Power_of_2",
+            "request": "launch",
+            "mainClass": "Power_of_2",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch No_of_digit_in_base",
+            "request": "launch",
+            "mainClass": "No_of_digit_in_base",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Magic",
+            "request": "launch",
+            "mainClass": "Magic",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bitwise_Operator_2",
+            "request": "launch",
+            "mainClass": "Bitwise_Operator_2",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bitwise_Operator_1",
+            "request": "launch",
+            "mainClass": "Bitwise_Operator_1",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibo_Formula",
+            "request": "launch",
+            "mainClass": "Fibo_Formula",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion_3_BinarySearch",
+            "request": "launch",
+            "mainClass": "Recursion_3_BinarySearch",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch double_Datatype",
+            "request": "launch",
+            "mainClass": "double_Datatype",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion_2_nthFibo",
+            "request": "launch",
+            "mainClass": "Recursion_2_nthFibo",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_Builder",
+            "request": "launch",
+            "mainClass": "String_Builder",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_Operator",
+            "request": "launch",
+            "mainClass": "String_Operator",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch prettyPrinting",
+            "request": "launch",
+            "mainClass": "prettyPrinting",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_basic",
+            "request": "launch",
+            "mainClass": "String_basic",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Number_Disappeared",
+            "request": "launch",
+            "mainClass": "Number_Disappeared",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Missing_Number",
+            "request": "launch",
+            "mainClass": "Missing_Number",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Missing_Number_268",
+            "request": "launch",
+            "mainClass": "Missing_Number_268",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cyclic_Sort",
+            "request": "launch",
+            "mainClass": "Cyclic_Sort",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insertion_sort",
+            "request": "launch",
+            "mainClass": "Insertion_sort",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
             "name": "Launch reverse",
             "request": "launch",
             "mainClass": "reverse",
