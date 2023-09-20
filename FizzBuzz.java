@@ -3,16 +3,20 @@ import java.util.Scanner;
 public class FizzBuzz {
     static void checkFizzBuzz(int n){
         for(int i=1;i<=n;i++){
-            if(i%3==0 && i%5==0){
-                System.out.println("FizzBuzz");
-            }
+            String ans="";
             if(i%3==0){
-                System.out.println("Fizz");
+                ans+="Fizz";
             }
             if(i%5==0){
-                System.out.println("Buzz");
+                ans+="Buzz";
             }
-            
+            if(i%7==0){
+                ans+="Bazz";
+            }
+            if(ans.isEmpty()){
+                ans=Integer.toString(i);
+            }
+            System.out.println(ans);
         }
     }
     
