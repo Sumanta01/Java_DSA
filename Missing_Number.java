@@ -29,7 +29,7 @@ import java.util.*;
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        int []arr={4,0,2,1};
+        int []arr={1 ,3, 4 ,5,0};
         System.out.println(missingnumber(arr));
        
     }

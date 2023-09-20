@@ -3,7 +3,7 @@ import java.lang.*;
 public class max_element_rangeArray {
     public static void main(String[] args) {
         int []arr={12,34,56,5,76,32,21};
-        System.out.println(max(arr));
+       System.out.println(max(arr));
        System.out.println(Max_Range(arr, 0, 3));
      
     }

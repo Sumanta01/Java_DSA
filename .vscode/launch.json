@@ -6,6 +6,265 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "FizzBuzz",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Product_Array_Expect_Self",
+            "request": "launch",
+            "mainClass": "Product_Array_Expect_Self",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Vowels_Consonant_String",
+            "request": "launch",
+            "mainClass": "Vowels_Consonant_String",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Vowel_Consonant_charArray",
+            "request": "launch",
+            "mainClass": "Vowel_Consonant_charArray",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "JDBC_MySQL",
+            "request": "launch",
+            "mainClass": "JDBC_MySQL",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Hiii",
+            "request": "launch",
+            "mainClass": "Hiii",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Thread_2",
+            "request": "launch",
+            "mainClass": "Thread_2",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Thread_1",
+            "request": "launch",
+            "mainClass": "Thread_1",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Java_Jdbc",
+            "request": "launch",
+            "mainClass": "Java_Jdbc",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverriding",
+            "request": "launch",
+            "mainClass": "MethodOverriding",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Human",
+            "request": "launch",
+            "mainClass": "Human",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "MainCaps",
+            "request": "launch",
+            "mainClass": "MainCaps",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Method_Overloading",
+            "request": "launch",
+            "mainClass": "Method_Overloading",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "PrimeFactor",
+            "request": "launch",
+            "mainClass": "PrimeFactor",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Encapsu",
+            "request": "launch",
+            "mainClass": "Encapsu",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation",
+            "request": "launch",
+            "mainClass": "Encapsulation",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Hybrid_Inheritance",
+            "request": "launch",
+            "mainClass": "Hybrid_Inheritance",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "MultipleInherit",
+            "request": "launch",
+            "mainClass": "MultipleInherit",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "findFirstLastelement",
+            "request": "launch",
+            "mainClass": "findFirstLastelement",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Traverse_Tree",
+            "request": "launch",
+            "mainClass": "Traverse_Tree",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Blank",
+            "request": "launch",
+            "mainClass": "Blank",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "TowerOfHanoi",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Quicksort",
+            "request": "launch",
+            "mainClass": "Quicksort",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Bubble_Sort",
+            "request": "launch",
+            "mainClass": "Bubble_Sort",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Remove_Duplicate_Array",
+            "request": "launch",
+            "mainClass": "Remove_Duplicate_Array",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Anagram_String",
+            "request": "launch",
+            "mainClass": "Anagram_String",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Pyramid_Pattern",
+            "request": "launch",
+            "mainClass": "Pyramid_Pattern",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Static_Counter",
+            "request": "launch",
+            "mainClass": "Static_Counter",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "String_Performance",
+            "request": "launch",
+            "mainClass": "String_Performance",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "String_compr",
+            "request": "launch",
+            "mainClass": "String_compr",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Selection_Sort",
+            "request": "launch",
+            "mainClass": "Selection_Sort",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "unknow_Code",
+            "request": "launch",
+            "mainClass": "unknow_Code",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Starting_1_inarr",
+            "request": "launch",
+            "mainClass": "Starting_1_inarr",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Alpha_Pattern",
+            "request": "launch",
+            "mainClass": "Alpha_Pattern",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "Hashmap",
+            "request": "launch",
+            "mainClass": "Hashmap",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "HashMap",
+            "request": "launch",
+            "mainClass": "HashMap",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTraverse",
+            "request": "launch",
+            "mainClass": "ArrayTraverse",
+            "projectName": "Java_DSA_4ed66193"
+        },
+        {
+            "type": "java",
             "name": "Enums",
             "request": "launch",
             "mainClass": "Enums",
